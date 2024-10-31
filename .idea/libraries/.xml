@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Загрузки">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../artemiiq/Загрузки/jackson-annotations-2.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../artemiiq/Загрузки/jackson-core-2.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../artemiiq/Загрузки/jackson-databind-2.18.1.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../artemiiq/Загрузки" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../artemiiq/Загрузки" recursive="false" />
+  </library>
+</component>
