@@ -3,7 +3,7 @@ import java.util.regex.*;
 
 public class PhoneNumberValidator {
     public static void main(String[] args) {
-        String fileName = "D:\\file.txt";
+        String fileName = "filePhone.txt";
         validator(fileName);
     }
 

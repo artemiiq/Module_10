@@ -10,7 +10,7 @@ import java.io.File;
 
 public class UserFileReader {
     public static void main(String[] args) {
-        String inputFile = "D:\\GoIT\\file.txt";
+        String inputFile = "fileName.txt";
         String outputFile = "user.json";
 
         List<User> users = readUserFromFile(inputFile);
